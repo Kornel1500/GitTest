@@ -1,0 +1,8 @@
+viszl t
+viszl t.^Z
+viszl t.^Z
+
+
+copy con test2.txt
+copy con test2.txt
+viszlat
